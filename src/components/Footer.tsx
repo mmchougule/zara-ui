@@ -80,7 +80,7 @@ export default function Footer() {
                  className="p-2 rounded-full bg-white/80 hover:bg-white shadow-md hover:shadow-lg transition-all duration-300">
                 <Github className="w-5 h-5 text-rose-600" />
               </a>
-              <a href="https://twitter.com/zara_ai" 
+              <a href="https://twitter.com/zaara_ai" 
                  className="p-2 rounded-full bg-white/80 hover:bg-white shadow-md hover:shadow-lg transition-all duration-300">
                 <Twitter className="w-5 h-5 text-rose-600" />
               </a>

@@ -108,7 +108,7 @@ export default function Hero() {
           
           <div className="flex justify-center space-x-4">
             <a 
-              href="https://twitter.com/zara_ai"
+              href="https://twitter.com/zaara_ai"
               target="_blank"
               rel="noopener noreferrer"
               className="bg-white/80 backdrop-blur-sm text-rose-600 px-6 py-3 rounded-full inline-flex items-center space-x-2 hover:bg-white transition-all duration-300 shadow-md hover:shadow-xl"
@@ -128,7 +128,7 @@ export default function Hero() {
             Chat functionality is under development. Meanwhile, connect with me on Twitter!
           </p>
           <a
-            href="https://twitter.com/zara_ai"
+            href="https://twitter.com/zaara_ai"
             target="_blank"
             rel="noopener noreferrer"
             className="bg-gradient-to-r from-rose-400 to-purple-400 text-white px-6 py-3 rounded-full inline-flex items-center space-x-2 hover:from-rose-500 hover:to-purple-500 transition-all duration-300"
