@@ -11,7 +11,7 @@ const architectureItems = [
   {
     icon: Network,
     title: 'Neural Networks',
-    description: 'Advanced pattern recognition and learning capabilities',
+    description: 'Pattern recognition and learning capabilities',
     gradient: 'from-purple-400 to-pink-400',
   },
   {

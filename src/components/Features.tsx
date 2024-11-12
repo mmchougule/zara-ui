@@ -5,7 +5,7 @@ const features = [
   {
     icon: Brain,
     title: 'Autonomous Intelligence',
-    description: 'Self-directed learning and decision making powered by advanced AI',
+    description: 'Self-directed learning and decision making powered by LLMs',
     gradient: 'from-rose-400 to-purple-400',
   },
   {
